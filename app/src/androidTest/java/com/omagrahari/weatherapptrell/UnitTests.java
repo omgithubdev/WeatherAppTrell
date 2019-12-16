@@ -12,7 +12,7 @@ import static junit.framework.TestCase.assertEquals;
 public class UnitTests {
 
     @Test
-    public void testConvertFahrenheitToCelsius() {
+    public void testConvertKelvinToCelsius() {
         float actual = Utils.convertKelvinToCelcius(300.38f);
         // expected value is 212
         float expected = 28f;
