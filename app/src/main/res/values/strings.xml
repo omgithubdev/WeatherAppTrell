@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherAppTrell</string>
+
+    <string name="appid">9594818eb37bccd9b3faff2e767bdee6</string>
+
+    <string name="msg_request_permission">Request location permission</string>
+    <string name="msg_request_permission_">App requires location permission to fetch the weather</string>
+    <string name="btn_ok">Ok</string>
+</resources>
